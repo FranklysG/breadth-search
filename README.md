@@ -1,8 +1,8 @@
-# ? breadth Search 
+# ❓ breadth Search 
 
 An algorithm for performing breadth-first searches on a user-given array
 
-## ?? Partials Codes
+## ⚠️ Partials Codes
 
 First we make the algorithm ask the user for the size of the array ()
 <code>
